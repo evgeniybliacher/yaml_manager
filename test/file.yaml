@@ -1,0 +1,7 @@
+# [2025-07-20 16:46:51] set foo car -> ['car', 'bar', 'mar']
+# [2025-07-20 16:46:07] set foo bar -> car
+# [2025-07-20 16:45:44] set foo bar
+foo:
+- car
+- bar
+- mar

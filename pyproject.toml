@@ -1,0 +1,13 @@
+[project]
+name = "yaml_manager"
+version = "0.1.0"
+description = "CLI tool to create, edit, and remove YAML files."
+authors = ["Your Name <your@email.com>"]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pyyaml"
+]
+
+[tool.uv]
+# uv tool configuration if needed
